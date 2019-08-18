@@ -8,4 +8,4 @@ then run >> Markup :  `npm install`
 
 ## Screenshots
 
-![image](https://i.ibb.co/5hKBwzY/Screenshot-at-Aug-18-17-05-32.png =400x)
+![image](https://i.ibb.co/5hKBwzY/Screenshot-at-Aug-18-17-05-32.png){width=400px}
